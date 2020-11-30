@@ -1,0 +1,13 @@
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ExerD23\Exercicios-de-fixacao\Exercicio 5\bin\Debug\netcoreapp3.1\Excercicio 5 de segunda-feira.exe
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ExerD23\Exercicios-de-fixacao\Exercicio 5\bin\Debug\netcoreapp3.1\Excercicio 5 de segunda-feira.deps.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ExerD23\Exercicios-de-fixacao\Exercicio 5\bin\Debug\netcoreapp3.1\Excercicio 5 de segunda-feira.runtimeconfig.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ExerD23\Exercicios-de-fixacao\Exercicio 5\bin\Debug\netcoreapp3.1\Excercicio 5 de segunda-feira.runtimeconfig.dev.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ExerD23\Exercicios-de-fixacao\Exercicio 5\bin\Debug\netcoreapp3.1\Excercicio 5 de segunda-feira.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ExerD23\Exercicios-de-fixacao\Exercicio 5\bin\Debug\netcoreapp3.1\Excercicio 5 de segunda-feira.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ExerD23\Exercicios-de-fixacao\Exercicio 5\obj\Debug\netcoreapp3.1\Excercicio 5 de segunda-feira.csprojAssemblyReference.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ExerD23\Exercicios-de-fixacao\Exercicio 5\obj\Debug\netcoreapp3.1\Excercicio 5 de segunda-feira.AssemblyInfoInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ExerD23\Exercicios-de-fixacao\Exercicio 5\obj\Debug\netcoreapp3.1\Excercicio 5 de segunda-feira.AssemblyInfo.cs
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ExerD23\Exercicios-de-fixacao\Exercicio 5\obj\Debug\netcoreapp3.1\Excercicio 5 de segunda-feira.csproj.CoreCompileInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ExerD23\Exercicios-de-fixacao\Exercicio 5\obj\Debug\netcoreapp3.1\Excercicio 5 de segunda-feira.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ExerD23\Exercicios-de-fixacao\Exercicio 5\obj\Debug\netcoreapp3.1\Excercicio 5 de segunda-feira.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\ExerD23\Exercicios-de-fixacao\Exercicio 5\obj\Debug\netcoreapp3.1\Excercicio 5 de segunda-feira.genruntimeconfig.cache
